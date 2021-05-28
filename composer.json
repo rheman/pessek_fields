@@ -1,0 +1,25 @@
+{
+	"name": "pessek/pessek_fields",
+    	"description": "This plugin allows users to add some skills and languages to their profile",
+    	"type": "elgg-plugin",
+    	"license": "proprietary",
+	"keywords": [
+		"elgg",
+		"plugin",
+		"notifications",
+		"email"
+	],
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+	"extra": {
+		"installer-name": "pessek_fields"
+	},
+    	"require": {
+		"php": ">=7.1",
+		"composer/installers": "~1.0"
+	}
+}
